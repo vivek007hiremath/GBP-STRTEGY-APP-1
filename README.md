@@ -33,6 +33,7 @@ Output in `dist/` — ready for GitHub Pages or any static host.
 
 ## GitHub Pages Deployment
 
+
 ### One-time setup
 
 1. Create a GitHub repo named `gbpusd-backtest`
